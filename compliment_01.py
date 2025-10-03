@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Ronan Mirchandani
+# DATE: 10/1/25
+# BRIEF DESCRIPTION: Display a compliment.  
 
 
 
@@ -14,6 +14,24 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+
+comp_1 = input("Would you like a compliment?: ")
+
+
+if comp_1 == "yes":
+    print("You have wonderful eyes.")
+    print("Thank you for playing.")
+else:
+    print('Thank you for playing.') 
+    
+
+
+
+
+
+
+
+
 
 
 
@@ -67,12 +85,12 @@ Thank you for playing.
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
 
-
+Solid 7 or 8. Im not great at this yet.
 
 
 2. What was the hardest part of this lab?
 
-
+Geting the else responce right.
 
 
 
